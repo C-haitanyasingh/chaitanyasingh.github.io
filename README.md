@@ -44,8 +44,8 @@ This project aims to utilize machine learning to estimate and address the Obesit
 
 ## Contact
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
+- Email: [mr.chaitanyasingh@gmail.com]
+- LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/chaitanyasingh-)]
 - Twitter: [Your Twitter Handle]
 
 Feel free to get in touch! I'm open to collaborations and opportunities.
